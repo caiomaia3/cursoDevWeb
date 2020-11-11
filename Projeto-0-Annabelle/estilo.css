@@ -21,14 +21,12 @@ body{
 .conteudos{
 	background-color:  #ffffcc;
 	padding: 10px 10px;
-	border: 1px solid;
 }
 
 #rodape{
 	font-weight: bold;
 	margin: 10px;
 	text-align: center;
-	border: 1px solid black;
 }
 
 a.estilo {
