@@ -1,5 +1,6 @@
 body{
 	background-image: url('imagens/fundo.png');
+	font-size: 16px;
 }
 
 #principal{
@@ -18,7 +19,7 @@ body{
 	padding:10px 0px;
 }
 
-.conteudos{
+#conteudos{
 	background-color:  #ffffcc;
 	padding: 10px 10px;
 }
@@ -43,6 +44,12 @@ a.estilo {
 
 p.negrito{
 	font-weight: bold;
+}
+
+h1{
+	font-size: 1.2em;
+	color: #828271;
+
 }
 
 
