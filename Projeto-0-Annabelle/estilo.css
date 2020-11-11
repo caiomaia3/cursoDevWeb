@@ -1,0 +1,50 @@
+body{
+	background-image: url('imagens/fundo.png');
+}
+
+#principal{
+	width: 900px;
+}
+
+#cabecalho{
+
+}
+
+#links{
+	background-color: #ccccb3;
+	font-family: "Arial", sans-serif;
+	font-weight: bold;
+	color: #3d5c5c;
+	padding:10px 0px;
+}
+
+.conteudos{
+	background-color:  #ffffcc;
+	padding: 10px 10px;
+	border: 1px solid;
+}
+
+#rodape{
+	font-weight: bold;
+	margin: 10px;
+	text-align: center;
+	border: 1px solid black;
+}
+
+a.estilo {
+	font-family: "Arial", sans-serif;
+	font-weight: bold;
+	color: #3d5c5c;
+	text-decoration: none;
+	margin: 10px 20px;
+}
+
+.borda-imagem {
+	border: 10px solid #ccccb3;
+}
+
+p.negrito{
+	font-weight: bold;
+}
+
+
